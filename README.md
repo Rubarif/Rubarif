@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Front-End development projects </b>
-  - []([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Rubarif/wallet-App))
+  - [https://github.com/Rubarif/wallet-App]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Rubarif/wallet-App))
 - <b> Design & Prototypes </b>
 
 
